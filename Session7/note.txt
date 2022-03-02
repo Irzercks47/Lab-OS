@@ -1,0 +1,12 @@
+serial console?
+> memnerima input dari user dan mengeluarkan output dari user
+> pada sesi ini buat print dan scan sendiri
+> semaphore = lebih untuk mengatur flow 
+> interrupts
+> timer 
+fungsinya untuk ngitung brp tick yang jalan dlm program
+tick != detik
+timer ada di machine
+tick hanya nambah ketika diinterrupt
+bisa diambil nilainya (long)
+set runnable ketika diinterrupt
